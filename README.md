@@ -1,7 +1,7 @@
-![Logo2](./pictures/image.png)
+![Logo](./images/logo2.png)
 # Le Jeu De La Complicité
 
-![A](./assets/image/A.png) ![B](./assets/image/B.png) ![C](./assets/image/C.png) ![D](./assets/image/D.png)
+![A](./assets/A.png) ![B](./assets/B.png) ![C](./assets/C.png) ![D](./assets/D.png)
 Prouvez votre connivence dans ce jeu oral de rapidité et de coopération.
 
 1. Construisez 2 équipes de 2 à ∞ joueurs.
