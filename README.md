@@ -1,4 +1,4 @@
-![Logo](./images/logo2.png)
+![Logo](./assets/images/logo2.png)
 # Le Jeu De La Complicité
 
 ![A](./assets/A.png) ![B](./assets/B.png) ![C](./assets/C.png) ![D](./assets/D.png)
