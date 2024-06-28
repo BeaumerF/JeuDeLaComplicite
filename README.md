@@ -4,7 +4,7 @@
 # Le Jeu De La Complicité
 Prouvez votre connivence dans ce jeu oral de rapidité et de coopération.
 
-<img src="./assets/A.png" width="163"> <img src="./assets/B.png" width="150"> <img src="./assets/C.png" width="150"> <img src="./assets/D.png" width="150">
+<img src="./assets/A.png" width="217"> <img src="./assets/B.png" width="200"> <img src="./assets/C.png" width="200"> <img src="./assets/D.png" width="200">
 
 ## Comment jouer ?
 
